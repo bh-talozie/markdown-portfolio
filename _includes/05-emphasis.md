@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Cities
+
+Below is a _list_ of my **favorite** cities:
+
+## US Cities
+- Chicago
+- San Francisco
+- New Orleans
+
+## International Cities
+- Mexico City
+- Hanoi
+- London
